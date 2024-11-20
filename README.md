@@ -1,6 +1,6 @@
 <div>
 <h1 align="center">Olá! Sou Carlos Henrique</h1>
-<img src="https://github.com/profcarlosc3/imagens/blob/43b6027db45317b5f8780b286c7b2c3a8a88730b/Caricatura.jpg?raw=true" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://photos.google.com/u/3/photo/AF1QipOGHkxy-MMwN_5nqkmAkrp6CYTK-0ve1XcUaCk4" alt="fotografia" min-width="300px" max-width="300px" width="300px" align="right">
 </div>
 
 <h2>Sobre mim</h2> 
