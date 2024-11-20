@@ -1,7 +1,8 @@
 <div>
-<h1 align="center">Olá! Sou Carlos Henrique</h1>
-<img src="https://photos.google.com/u/3/photo/AF1QipOGHkxy-MMwN_5nqkmAkrp6CYTK-0ve1XcUaCk4" alt="fotografia" min-width="300px" max-width="300px" width="300px" align="right">
+    <h1 align="center">Olá! Sou Carlos Henrique</h1>
+    <img src="https://i.imgur.com/XXBAfme.jpg" alt="fotografia" min-width="300px" max-width="300px" width="300px" align="right">
 </div>
+
 
 <h2>Sobre mim</h2> 
 <p align="justify">Eu sou Carlos Henrique da Cruz Silva, tenho 17 anos e moro em Açailândia, Maranhão. Atualmente, estou no segundo ano do ensino médio no IFMA campus Açailândia, onde também faço o curso técnico em informática.</p>
