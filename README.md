@@ -12,11 +12,10 @@
 
 <h2>Habilidades pessoais</h2>
 <p align="justify">
-<li> x
-<li> x
-<li> x
-<li> x
-<li> x
+<li> Oratória
+<li> Humanas
+<li> Trabalho em grupo
+<li> Adaptabilidade
 </p>
 
 <h2>Minhas Habilidades</h2>
