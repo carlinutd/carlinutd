@@ -1,8 +1,7 @@
-<div>
-    <h1 align="center">Olá! Sou Carlos Henrique</h1>
-    <img src="https://i.imgur.com/XXBAfme.jpg" alt="fotografia" min-width="300px" max-width="300px" width="300px" align="right">
+<div align="center">
+    <h1>Olá! Sou Carlos Henrique</h1>
+    <img src="https://i.imgur.com/XXBAfme.jpg" alt="fotografia" width="200px" style="border-radius: 50%; margin-top: -40px;">
 </div>
-
 
 <h2>Sobre mim</h2> 
 <p align="justify">Eu sou Carlos Henrique da Cruz Silva, tenho 17 anos e moro em Açailândia, Maranhão. Atualmente, estou no segundo ano do ensino médio no IFMA campus Açailândia, onde também faço o curso técnico em informática.</p>
@@ -28,7 +27,8 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
 
-![FireBase](https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase&logoColor=yellow)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=blue)
+
 
 </div>
 
@@ -54,6 +54,8 @@
 [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=blue)](https://www.instagram.com/carlinutd/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlinutd)
+
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carloscruz@acad.ifma.edu.br)
 
 </div>
 
