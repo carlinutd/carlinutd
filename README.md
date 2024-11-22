@@ -34,14 +34,14 @@
 
 <div  align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profcarlosc3&layout=compact&langs_count=7&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlinutd&layout=compact&langs_count=7&theme=react)
 
 </div>
 
 <h2>Contribuições</h2>
 <div  align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=profcarlosc3&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlinutd&show_icons=true&theme=radical)
 
 </div>
 
