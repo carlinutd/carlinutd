@@ -11,10 +11,9 @@
 
 <h2>Habilidades pessoais</h2>
 <p align="justify">
-<li> Oratória
-<li> Humanas
-<li> Trabalho em grupo
-<li> Adaptabilidade
+<li> Oratória: apresento seminários com muita frequência, também já apresentei feiras científicas.
+<li> Humanas: sempre tiro notas boas em matérias de humanas, apresento muito conhecimento de conteudos em Geografia e História.
+<li> Trabalho em grupo: estou acostumado a fazer muitos trabalhos em grupos desde o ensino fundamental.
 </p>
 
 <h2>Minhas Habilidades</h2>
@@ -29,7 +28,7 @@
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=blue)
 
-word
+![Word](https://img.shields.io/badge/Word-000?style=for-the-badge&logo=microsoft-word&logoColor=blue)
 
 ![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva&logoColor=blue)
 
