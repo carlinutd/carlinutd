@@ -13,7 +13,7 @@
 <p align="justify">
 <li> Oratória: apresento seminários com muita frequência, também já apresentei feiras científicas.
 <li> Humanas: sempre tiro notas boas em matérias de humanas, apresento muito conhecimento de conteudos em Geografia e História.
-<li> Trabalho em grupo: estou acostumado a fazer muitos trabalhos em grupos desde o ensino fundamental.
+<li> Trabalho em grupo: estou acostumado a fazer muitos trabalhos em grupos desde o ensino fundamental, incluido apresentações, pesquisas, atividades e tcc.
 </p>
 
 <h2>Minhas Habilidades</h2>
@@ -27,8 +27,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=blue)
-
-![Word](https://img.shields.io/badge/Word-000?style=for-the-badge&logo=microsoft-word&logoColor=blue)
 
 ![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva&logoColor=blue)
 
