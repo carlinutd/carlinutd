@@ -29,6 +29,9 @@
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=blue)
 
+word
+
+![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva&logoColor=blue)
 
 </div>
 
