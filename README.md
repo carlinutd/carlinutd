@@ -7,7 +7,10 @@
 <p align="justify">Eu sou Carlos Henrique da Cruz Silva, tenho 17 anos e moro em Açailândia, Maranhão. Atualmente, estou no segundo ano do ensino médio no IFMA campus Açailândia, onde também faço o curso técnico em informática.</p>
 
 <h2>Informações profissionais</h2>
-<p align="justify">xxxxxxxxx.</p>
+<p align="justify">
+<li> Desenvolvivemnto de um trabalho científico, no qual envolve a escrita de um artigo e um desenvolvimento de um jogo 2d.</li>
+<li> Desenvolvimento de sites.</li>
+</p>
 
 <h2>Habilidades pessoais</h2>
 <p align="justify">
@@ -16,7 +19,7 @@
 <li> Trabalho em grupo: estou acostumado a fazer muitos trabalhos em grupos desde o ensino fundamental, incluido apresentações, pesquisas, atividades e tcc.
 </p>
 
-<h2>Minhas Habilidades</h2>
+<h2>Linguagens e Ferramentas</h2>
 <div style="display: flex">
 <br>
 
@@ -29,6 +32,8 @@
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=blue)
 
 ![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva&logoColor=blue)
+
+
 
 </div>
 
