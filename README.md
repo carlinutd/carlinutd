@@ -8,8 +8,8 @@
 
 <h2>Informações profissionais</h2>
 <p align="justify">
-<li> Desenvolvivemnto de um trabalho científico, no qual envolve a escrita de um artigo e um desenvolvimento de um jogo 2d.</li>
-<li> Desenvolvimento de sites.</li>
+<li> Estou Desenvolvolvendo um trabalho científico, juntamente da minha equipe, no qual envolve a escrita de um artigo e um desenvolvimento de um jogo 2d.</li>
+<li> Já desenvolvi sites, usando WordPress, tanto quanto HTML, CSS e JavaScript.</li>
 </p>
 
 <h2>Habilidades pessoais</h2>
