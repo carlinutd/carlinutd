@@ -8,7 +8,7 @@
 
 <h2>Informações profissionais</h2>
 <p align="justify">
-<li> Estou Desenvolvolvendo um trabalho científico, juntamente da minha equipe, no qual envolve a escrita de um artigo e um desenvolvimento de um jogo 2d.</li>
+<li> Estou Desenvolvolvendo um trabalho científico, juntamente da minha equipe, no qual envolve a escrita de um artigo e um desenvolvimento de um jogo 2d, usando as ferramentas: Godot e Libresprite.</li>
 <li> Já desenvolvi sites, usando WordPress, tanto quanto HTML, CSS e JavaScript.</li>
 </p>
 
